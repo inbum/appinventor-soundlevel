@@ -1,0 +1,8 @@
+{
+  "slug": "appinventor-soundlevel",
+  "title": "앱 인벤터로 음악에 반응하는 RGB 화면 만들기",
+  "summary": "안드로이드 태블릿의 마이크로 음악을 분석하고 보라·핑크 콘서트 색상을 표현하는 SoundLevel 확장. AIX 다운로드와 AI Companion 수업용 블록 안내를 제공합니다.",
+  "section": "swedu",
+  "tags": ["앱인벤터", "SW교육", "음악시각화", "RGB", "SoundLevel"],
+  "status": "published"
+}

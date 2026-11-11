@@ -1,0 +1,4 @@
+.build-template/
+build/
+out/
+.DS_Store
